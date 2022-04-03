@@ -3,7 +3,7 @@ const Footer = () => {
         <div className="bg-slate-900">
             <div className="mx-auto container grid grid-cols-6 pt-12 pb-16 px-6">
                 <div className="col-span-6 lg:col-span-4 pb-10 lg:pb-0">
-                    <a className="flex flex-col space-y-3 cursor-pointer items-center lg:items-start" href="/">
+                    <a className="flex flex-col space-y-4 cursor-pointer items-center lg:items-start" href="/">
                         <p className="text-white text-lg font-bold">React Storefront</p>
                         <p className="hidden md:block text-slate-400 text-sm">(Still under construction)</p>
                     </a>
